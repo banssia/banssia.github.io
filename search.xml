@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>4Fang财务软件</title>
-    <url>/nans/2021/06/03/4Fang%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6/</url>
+    <url>/2021/06/03/4Fang%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<p>4fang财务软件是款简洁易用的财务软件。 4fang财务软件免费版的特点在于它的操作简单、使用方便、数据稳定，软件为用户提供按月打印凭证、动态账簿、动态报表等。<span id="more"></span></p>
 <h1 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h1><p>1、 巨大的灵活性，和现在国内会计的实物操作更为贴近。
 　　</p>
@@ -42,7 +42,7 @@
   </entry>
   <entry>
     <title>NPV计算器</title>
-    <url>/nans/2021/06/09/NPV%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/06/09/NPV%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<h1 id="什么是净现值（NPV）？"><a href="#什么是净现值（NPV）？" class="headerlink" title="什么是净现值（NPV）？"></a>什么是净现值（NPV）？</h1><p>净现值（NPV）指未来资金(现金)流入(收入)现值与未来资金(现金)流出(支出)现值的差额。项目评估中净现值法的基本指标。未来的资金流入与资金流出均按预计折现率各个时期的现值系数换算为现值后，再确定其净现值。这种预计折现率是按企业的最低的投资收益率来确定的.是企业投资可以接受的最低界限。</p>
 <h1 id="净现值-NPV-的计算"><a href="#净现值-NPV-的计算" class="headerlink" title="净现值(NPV)的计算"></a>净现值(NPV)的计算</h1><p>净现值是评价投资的一种方法。通常认为投资的净现值越大，该投资的收益越好。本计算器帮助简化净现值的计算。你需要提供每个时间段的现金流数据和折现率。</p>
 <h1 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h1><p>NPV - 净现值。 如果NPV&gt;0，则项目可能是可接受的。 如果NPV&lt;0，则应拒绝该项目。</p>
@@ -63,7 +63,7 @@
   </entry>
   <entry>
     <title>P/E计算器</title>
-    <url>/nans/2021/06/09/P-E%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/06/09/P-E%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<p>股票市盈率（P/E）计算器，依据股票价格和企业每股税后利润可以方便地计算某只股票的市盈率。<span id="more"></span></p>
 <p>股票市盈率是客户选择股票的重要标准之一。</p>
 <p>股票市盈率（Price Earnings Ratio，简称P/E或PER），也称“本益比”、“股价收益比率”或“市价盈利比率（简称市盈率）”。市盈率是指股票价格除以每股收益的比率。</p>
@@ -82,7 +82,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/nans/2021/05/27/hello-world/</url>
+    <url>/2021/05/27/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -100,7 +100,7 @@
   </entry>
   <entry>
     <title>XIRR计算器</title>
-    <url>/nans/2021/06/09/XIRR%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/06/09/XIRR%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<h1 id="内部收益率（XIRR）计算器的功能"><a href="#内部收益率（XIRR）计算器的功能" class="headerlink" title="内部收益率（XIRR）计算器的功能"></a><strong>内部收益率（XIRR）计算器的功能</strong></h1><p>计算一组定期或者不定期现金流的内部收益率。</p>
 <p>如果计算一组定期现金流的内部收益率，请使用<a href="http://www.atoolbox.net/Tool.php?Id=960">内部收益率（IRR）计算器</a>。</p>
 <h1 id="内部收益率XIRR和IRR计算器的区别"><a href="#内部收益率XIRR和IRR计算器的区别" class="headerlink" title="内部收益率XIRR和IRR计算器的区别"></a><strong>内部收益率XIRR和IRR计算器的区别</strong></h1><p>IRR计算适用于确定定期获得的现金流；当现金流是否能定期获得不确定时，可以使用XIRR计算器计算，换句话说XIRR计算器比IRR计算器的使用范围更加广泛。XIRR 与净现值 XNPV 密切相关。 XIRR 计算的收益率即为XNPV = 0 时的利率。</p>
@@ -119,7 +119,7 @@
   </entry>
   <entry>
     <title>IRR计算器</title>
-    <url>/nans/2021/05/27/irr%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/05/27/irr%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<h1 id="什么是内部收益率（IRR）？"><a href="#什么是内部收益率（IRR）？" class="headerlink" title="什么是内部收益率（IRR）？"></a>什么是内部收益率（IRR）？</h1><p>内部收益率，英文名称：Internal Rate of Return，缩写IRR。是指项目投资实际可望达到的收益率。就是资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。如果不使用电子计算机，内部收益率要用若干个折现率进行试算，直至找到净现值等于零或接近于零的那个折现率。内部收益率，是一项投资渴望达到的报酬率，是能使投资项目净现值等于零时的折现率。</p>
 <p>它是一项投资渴望达到的报酬率，该指标越大越好。一般情况下，内部收益率大于等于基准收益率时，该项目是可行的。投资项目各年现金流量的折现值之和为项目的净现值，净现值为零时的折现率就是项目的内部收益率。在项目经济评价中，根据分析层次的不同，内部收益率有财务内部收益率（FIRR）和经济内部收益率（EIRR）之分。</p>
 <p>内部收益率是用内部收益率来评价项目投资效益的方法。当下，股票、基金、黄金、房产、期货等投资方式已为众多理财者所熟悉和运用。但投资的成效如何，许多人的理解仅仅限于收益的绝对量上，缺乏科学的判断依据。对于他们来说，内部收益率(IRR)指标是个不可或缺的工具。</p>
@@ -140,7 +140,7 @@
   </entry>
   <entry>
     <title>万能进销存系统</title>
-    <url>/nans/2021/06/03/%E4%B8%87%E8%83%BD%E8%BF%9B%E9%94%80%E5%AD%98%E7%B3%BB%E7%BB%9F/</url>
+    <url>/2021/06/03/%E4%B8%87%E8%83%BD%E8%BF%9B%E9%94%80%E5%AD%98%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><p>万能进销存系统是专为企业、店铺、个人开发的进、销、存管理、理财、员工管理的进销存系统，具有商品管理、进销存单据管理、库存管理，利润查看，员工成绩图表查看，月销售成绩图表比较查看，日销售统计报表，月销售统计报表，年销售统计报表，并可以打印各种报表并导出EXCEL，可以根据各种条件组合查询、汇总，万能进销存系统具有功能完备、实用简单、使用方便，上手快的特点，是小型企业、店铺、个人理想的免费进销存系统。<span id="more"></span></p>
 <h1 id="行业用户"><a href="#行业用户" class="headerlink" title="行业用户"></a>行业用户</h1><p>办公用品、建材、服装、电脑、机电、小型超市、医药、日用品、汽摩配、农(资)产品、 礼品、电子电器等。 </p>
 <h1 id="功能特点"><a href="#功能特点" class="headerlink" title="功能特点"></a>功能特点</h1><p>1.软件使用简单、方便，功能完备实用，上手快。</p>
@@ -166,7 +166,7 @@
   </entry>
   <entry>
     <title>万能进销存财务一体管理软件</title>
-    <url>/nans/2021/06/03/%E4%B8%87%E8%83%BD%E8%BF%9B%E9%94%80%E5%AD%98%E8%B4%A2%E5%8A%A1%E4%B8%80%E4%BD%93%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/</url>
+    <url>/2021/06/03/%E4%B8%87%E8%83%BD%E8%BF%9B%E9%94%80%E5%AD%98%E8%B4%A2%E5%8A%A1%E4%B8%80%E4%BD%93%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>万能进销存财务一体管理软件是专为企业、店铺、个人开发的进、销、存管理、理财、员工管理的进销存软件，具有商品管理、进销存单据管理、库存管理，利润查看，员工成绩图表查看，月销售成绩图表比较查看，日销售统计报表，月销售统计报表，年销售统计报表，并可以打印各种报表并导出EXCEL，可以根据各种条件组合查询、汇总， 销售管理软件具有功能完备、实用简单、使用方便，上手快的特点，是小型企业、店铺、个人理想的进销存财务一体管理软件。 <span id="more"></span></p>
 <h1 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h1><p> 1.软件使用简单、方便，功能完备实用，上手快。</p>
 <p> 2.功能强大的利润统计功能，可以查看年，月，日的详细利润和指定某件商品的销售利润。 </p>
@@ -191,7 +191,7 @@
   </entry>
   <entry>
     <title>利息计算器</title>
-    <url>/nans/2021/06/09/%E5%88%A9%E6%81%AF%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/06/09/%E5%88%A9%E6%81%AF%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<p>利息计算器，可以通过把本金，利率和投资期限相乘来计算利息。<span id="more"></span></p>
 <h2 id="如何使用利息计算器"><a href="#如何使用利息计算器" class="headerlink" title="如何使用利息计算器"></a>如何使用利息计算器</h2><ul>
 <li>资金投入 - 您的初始资金，也称为本金。</li>
@@ -219,7 +219,7 @@
   </entry>
   <entry>
     <title>云票助手</title>
-    <url>/nans/2021/06/03/%E4%BA%91%E7%A5%A8%E5%8A%A9%E6%89%8B/</url>
+    <url>/2021/06/03/%E4%BA%91%E7%A5%A8%E5%8A%A9%E6%89%8B/</url>
     <content><![CDATA[<h1 id="云票助手软件特性"><a href="#云票助手软件特性" class="headerlink" title="云票助手软件特性"></a>云票助手软件特性</h1><p>云票助手是旋极百旺推出的一款开票软件，为用户提供开票更简单体验，云票助手为企业提供发票开具、查验、归集、进销项服务、智慧财税服务，支持全票种、全设备、全场景的一体化解决方案。<span id="more"></span></p>
 <h2 id="云票打印机"><a href="#云票打印机" class="headerlink" title="云票打印机"></a>云票打印机</h2><p>云票打印机是一款多功能智能开票终端。内置9针针式打印机芯，可通过Wi-Fi/BT,有线网连接。可外接条码扫描枪、钱箱，快速开具卷式发票和电子发票。适用于批发、零售、餐饮、娱乐、住宿、商务服务、居民服务等多个行业。</p>
 <h2 id="税控盒子"><a href="#税控盒子" class="headerlink" title="税控盒子"></a>税控盒子</h2><p>税控盒子是一款多功能智能开票终端。可通过Wi-Fi/BT,有线网连接。可外接条码扫描枪、钱箱、打印机，快速开具纸质发票和电子发票。提供e开票APP、浏览器、互联网接口等多种开票界面，可完全替代传统电脑开票。</p>
@@ -238,7 +238,7 @@
   </entry>
   <entry>
     <title>发展趋势</title>
-    <url>/nans/2021/05/27/%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF/</url>
+    <url>/2021/05/27/%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF/</url>
     <content><![CDATA[<h1 id="发展趋势"><a href="#发展趋势" class="headerlink" title="发展趋势"></a>发展趋势</h1><p>智能财务的发展就是要通过开发大量的产品并成功地应用到实践之中，释放财务人员从事常规性工作的精力，去从事更需社交洞察能力、谈判交涉能力和创造性思维的工作。 然而，大量的事实表明，同样的产品和技术在不同的企业应用可能会产生不同的效果。</p>
 <span id="more"></span>
 
@@ -273,7 +273,7 @@
   </entry>
   <entry>
     <title>复利计算器</title>
-    <url>/nans/2021/06/09/%E5%A4%8D%E5%88%A9%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/06/09/%E5%A4%8D%E5%88%A9%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<p>复利计算器，可通过设置的初始资金投入、年利率、期限，按照日，星期，月或者年的计算频率来计算复利。<span id="more"></span></p>
 <h1 id="如何使用复利计算器"><a href="#如何使用复利计算器" class="headerlink" title="如何使用复利计算器"></a>如何使用复利计算器</h1><ul>
 <li><strong>投资金额</strong> - 初始的存款。       </li>
@@ -319,7 +319,7 @@
   </entry>
   <entry>
     <title>年化收益率计算器</title>
-    <url>/nans/2021/06/09/%E5%B9%B4%E5%8C%96%E6%94%B6%E7%9B%8A%E7%8E%87%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <url>/2021/06/09/%E5%B9%B4%E5%8C%96%E6%94%B6%E7%9B%8A%E7%8E%87%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<h1 id="什么是年化收益率？"><a href="#什么是年化收益率？" class="headerlink" title="什么是年化收益率？"></a>什么是年化收益率？</h1><p>年化收益率是把当前收益率（日收益率、周收益率、月收益率）换算成年收益率来计算的，是一种理论收益率，并不是真正的已取得的收益率。</p>
 <p>年化收益率是货币基金过去七天每万份基金份额净收益折合成的年收益率。</p>
 <p>货币市场基金存在两种收益结转方式：1. “日日分红，按月结转”，相当于日日单利，月月复利；2.”日日分红，按日结转”，相当于日日复利。</p>
@@ -343,7 +343,7 @@
   </entry>
   <entry>
     <title>柠檬云</title>
-    <url>/nans/2021/06/03/%E6%9F%A0%E6%AA%AC%E4%BA%91/</url>
+    <url>/2021/06/03/%E6%9F%A0%E6%AA%AC%E4%BA%91/</url>
     <content><![CDATA[<h1 id="柠檬云财务软件"><a href="#柠檬云财务软件" class="headerlink" title="柠檬云财务软件"></a>柠檬云财务软件</h1><p>柠檬云是功能强大的专业财务软件，凭证账簿、报表生成、固定资产、辅助核算、打印备份等功能一应俱全，所有功能永久免费。按照国家会计准则设计，可在税局备案，适合所有行业。更有手机APP同步记账，让财务更简单。<span id="more"></span></p>
 <h1 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h1><p>柠檬云财务软件是一款永久免费的专业财务记账软件，上线四年，已经有超过100万的财会从业者注册使用，并广受好评。<br>功能包括：</p>
 <p>1.发票自动生成凭证<br>一键导入发票，自动生成凭证。</p>
@@ -364,7 +364,7 @@
   </entry>
   <entry>
     <title>微税平台</title>
-    <url>/nans/2021/06/03/%E5%BE%AE%E7%A8%8E%E5%B9%B3%E5%8F%B0/</url>
+    <url>/2021/06/03/%E5%BE%AE%E7%A8%8E%E5%B9%B3%E5%8F%B0/</url>
     <content><![CDATA[<h1 id="微税平台软件特性"><a href="#微税平台软件特性" class="headerlink" title="微税平台软件特性"></a>微税平台软件特性</h1><p>微税平台是一款专业的税务综合服务平台，这里有大家所需要的增值税发票，网络办税等服务，包括开票业务、数据分析及开票助手等应用，财务人员必备工具。<span id="more"></span></p>
 <h1 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h1><p>1、业务频道区<br>主界面顶部区域为平台的业务频道，此区域包括首页、发票管理、办税大厅、推荐应用、信息中心、在线服务等。</p>
 <p>2、注册登录区<br>主界面右侧上部区域是登录区，包括用户登录、用户信息、在线注册等信息。</p>
@@ -384,7 +384,7 @@
   </entry>
   <entry>
     <title>框架</title>
-    <url>/nans/2021/05/27/%E6%A1%86%E6%9E%B6/</url>
+    <url>/2021/05/27/%E6%A1%86%E6%9E%B6/</url>
     <content><![CDATA[<h1 id="智能财务的框架"><a href="#智能财务的框架" class="headerlink" title="智能财务的框架"></a>智能财务的框架</h1><p>智能财务的目标是“促进财务工作的提升，更好地服务于业务工作和管理工作”，这就有必要针对财务工作任务逐一确定智能财务的工作目标，并进一步探讨财务工作目标的实现方式，包括智能化场景设计和新技术匹配运用。智能财务的基本框架如表1所示，涵盖财务工作领域、财务工作任务、财务工作分工、智能财务工作目标、智能化场景设计、新技术匹配运用等核心内容。</p>
 <span id="more"></span>
 
@@ -406,7 +406,7 @@
   </entry>
   <entry>
     <title>诺诺发票</title>
-    <url>/nans/2021/06/03/%E8%AF%BA%E8%AF%BA%E5%8F%91%E7%A5%A8/</url>
+    <url>/2021/06/03/%E8%AF%BA%E8%AF%BA%E5%8F%91%E7%A5%A8/</url>
     <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>诺诺发票是一款非常好用的发票管理软件，用户们可以通过这款软件实时在线享受最专业全面的一站式发票服务，它可以帮助用户们快速智能地进行开票、智能编码和电子发票等功能，还有多种便捷实用的辅助功能，让用户的发票管理更加高效。<span id="more"></span></p>
 <h1 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h1><p>1.专业的平台：完善的电子发票开具管理平台</p>
 <p>2.齐全的开票方案：全面、灵活的电子发票开具方案<br>，丰富的技术经验<br>，顶尖研发团队提供全方位支持</p>
@@ -427,7 +427,7 @@
   </entry>
   <entry>
     <title>理念</title>
-    <url>/nans/2021/05/27/%E7%90%86%E5%BF%B5/</url>
+    <url>/2021/05/27/%E7%90%86%E5%BF%B5/</url>
     <content><![CDATA[<h1 id="智能财务的理念"><a href="#智能财务的理念" class="headerlink" title="智能财务的理念"></a>智能财务的理念</h1><p>智能财务是指，将以人工智能为代表的“大智移云物区”等新技术运用于财务工作1，对传统财务工作进行模拟、延伸和拓展，以改善会计信息质量、提高会计工作效率、降低会计工作成本、提升会计合规能力和价值创造能力，促进企业财务在管理控制和决策支持方面的作用发挥，通过财务的数字化转型推动企业的数字化转型进程。</p>
 ]]></content>
       <categories>
@@ -440,7 +440,7 @@
   </entry>
   <entry>
     <title>流水账软件大管家</title>
-    <url>/nans/2021/06/03/%E6%B5%81%E6%B0%B4%E8%B4%A6%E8%BD%AF%E4%BB%B6%E5%A4%A7%E7%AE%A1%E5%AE%B6/</url>
+    <url>/2021/06/03/%E6%B5%81%E6%B0%B4%E8%B4%A6%E8%BD%AF%E4%BB%B6%E5%A4%A7%E7%AE%A1%E5%AE%B6/</url>
     <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>流水账软件大管家是一款著名的流水账软件记账工具，适用于大中小行的企业记账、门店记账、网店等零售行业记账软件。<span id="more"></span></p>
 <h1 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h1><p>支持商品汇总统计，支持员工汇总统计，支持品种汇总统计,支持流水汇总统计，支持账户汇总统计，支持快速打印，支持快速记账，支持按照月份查询，支持所有零售行业记账。</p>
 <h1 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h1><p> 1、【记账快捷】不需要复杂的填表单，只需选择。 </p>
@@ -462,7 +462,7 @@
   </entry>
   <entry>
     <title>金簿中小企业财务软件</title>
-    <url>/nans/2021/06/03/%E9%87%91%E7%B0%BF%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6/</url>
+    <url>/2021/06/03/%E9%87%91%E7%B0%BF%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>金簿财务软件操作全智能化、不懂会计也会用。<span id="more"></span>含2013版小企业会计准则、2007版新企业会计制度和原旧会计制度、融资担保公司会计制度、农民专业合作社会计制度等，并提供不同制度的转换功能，是中小企业及代理记账公司的最佳选择，可建998个账套，可直接在U盘上操作，支持凭证插入功能，可以修改凭证字、凭证号和进销存处理，自动计折旧，自动结转销售成本，只需录入凭证，常用总账、明细账、数量金额明细账、固定资产明细账，销售利润表，科目余额表、资产负债表、利润表、现金流量表、应交增值税明细表、及各种费用报表会自动生成。所有的凭证、账表、报表可以批量导出到电子表格……</p>
 <p><a href="https://xiazai.zol.com.cn/detail/42/417547.shtml">【金簿中小企业财务软件下载】金簿中小企业财务软件 4.692智能版-ZOL软件下载</a></p>
 ]]></content>
@@ -477,7 +477,7 @@
   </entry>
   <entry>
     <title>金蝶K/3财务管理系统</title>
-    <url>/nans/2021/06/03/%E9%87%91%E8%9D%B6K-3%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
+    <url>/2021/06/03/%E9%87%91%E8%9D%B6K-3%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<p>金蝶K3系统是一款综合管理软件，它可以帮助用户在业务流程方面、系统控制方面、合并报表方面都有很大进步。对用户的财务管理提供了很大帮助，支持统一管理企业财务，打造了一个信息化系统，为企业提供了解决方案。</p>
 <span id="more"></span>
 
