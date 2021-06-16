@@ -81,24 +81,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/05/27/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>XIRR计算器</title>
     <url>/2021/06/09/XIRR%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<h1 id="内部收益率（XIRR）计算器的功能"><a href="#内部收益率（XIRR）计算器的功能" class="headerlink" title="内部收益率（XIRR）计算器的功能"></a><strong>内部收益率（XIRR）计算器的功能</strong></h1><p>计算一组定期或者不定期现金流的内部收益率。</p>
@@ -116,6 +98,24 @@
         <tag>计算器</tag>
         <tag>不定期现金流内部收益率（XIRR）</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/05/27/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>IRR计算器</title>
@@ -190,25 +190,6 @@
       </tags>
   </entry>
   <entry>
-    <title>云票助手</title>
-    <url>/2021/06/03/%E4%BA%91%E7%A5%A8%E5%8A%A9%E6%89%8B/</url>
-    <content><![CDATA[<h1 id="云票助手软件特性"><a href="#云票助手软件特性" class="headerlink" title="云票助手软件特性"></a>云票助手软件特性</h1><p>云票助手是旋极百旺推出的一款开票软件，为用户提供开票更简单体验，云票助手为企业提供发票开具、查验、归集、进销项服务、智慧财税服务，支持全票种、全设备、全场景的一体化解决方案。<span id="more"></span></p>
-<h2 id="云票打印机"><a href="#云票打印机" class="headerlink" title="云票打印机"></a>云票打印机</h2><p>云票打印机是一款多功能智能开票终端。内置9针针式打印机芯，可通过Wi-Fi/BT,有线网连接。可外接条码扫描枪、钱箱，快速开具卷式发票和电子发票。适用于批发、零售、餐饮、娱乐、住宿、商务服务、居民服务等多个行业。</p>
-<h2 id="税控盒子"><a href="#税控盒子" class="headerlink" title="税控盒子"></a>税控盒子</h2><p>税控盒子是一款多功能智能开票终端。可通过Wi-Fi/BT,有线网连接。可外接条码扫描枪、钱箱、打印机，快速开具纸质发票和电子发票。提供e开票APP、浏览器、互联网接口等多种开票界面，可完全替代传统电脑开票。</p>
-<h2 id="智能POS机"><a href="#智能POS机" class="headerlink" title="智能POS机"></a>智能POS机</h2><p>全能的支付神器，集全支付、多应用、易管理于一身的移动智能终端。智能POS通过与CT100云票打印机或CT200税控盒子配套使用，更可全面支持电子发票、卷式发票、平推发票的便捷开票。</p>
-<h2 id="税控托管服务器"><a href="#税控托管服务器" class="headerlink" title="税控托管服务器"></a>税控托管服务器</h2><p>税控服务器是一款高性能服务器级税控专用设备，通过网络与开票管理系统配合，以WEB页面方式或组件接口方式为开票点多、并发开票量大，需要集中管理发票的纳税户提供发票开具、签名、上传、抄报等功能， 并保证发票数据的正确生成、可靠存储和安全传输，满足税务机关的管理和数据核查等要求。</p>
-<p><a href="https://xiazai.zol.com.cn/detail/46/455055.shtml">【云票助手下载】云票助手 3.0.9-ZOL软件下载</a></p>
-]]></content>
-      <categories>
-        <category>应用</category>
-      </categories>
-      <tags>
-        <tag>智能财务</tag>
-        <tag>财务软件</tag>
-        <tag>云票助手</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>利息计算器</title>
     <url>/2021/06/09/%E5%88%A9%E6%81%AF%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
     <content><![CDATA[<p>利息计算器，可以通过把本金，利率和投资期限相乘来计算利息。<span id="more"></span></p>
@@ -234,6 +215,25 @@
         <tag>智能财务</tag>
         <tag>计算器</tag>
         <tag>利息计算</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>云票助手</title>
+    <url>/2021/06/03/%E4%BA%91%E7%A5%A8%E5%8A%A9%E6%89%8B/</url>
+    <content><![CDATA[<h1 id="云票助手软件特性"><a href="#云票助手软件特性" class="headerlink" title="云票助手软件特性"></a>云票助手软件特性</h1><p>云票助手是旋极百旺推出的一款开票软件，为用户提供开票更简单体验，云票助手为企业提供发票开具、查验、归集、进销项服务、智慧财税服务，支持全票种、全设备、全场景的一体化解决方案。<span id="more"></span></p>
+<h2 id="云票打印机"><a href="#云票打印机" class="headerlink" title="云票打印机"></a>云票打印机</h2><p>云票打印机是一款多功能智能开票终端。内置9针针式打印机芯，可通过Wi-Fi/BT,有线网连接。可外接条码扫描枪、钱箱，快速开具卷式发票和电子发票。适用于批发、零售、餐饮、娱乐、住宿、商务服务、居民服务等多个行业。</p>
+<h2 id="税控盒子"><a href="#税控盒子" class="headerlink" title="税控盒子"></a>税控盒子</h2><p>税控盒子是一款多功能智能开票终端。可通过Wi-Fi/BT,有线网连接。可外接条码扫描枪、钱箱、打印机，快速开具纸质发票和电子发票。提供e开票APP、浏览器、互联网接口等多种开票界面，可完全替代传统电脑开票。</p>
+<h2 id="智能POS机"><a href="#智能POS机" class="headerlink" title="智能POS机"></a>智能POS机</h2><p>全能的支付神器，集全支付、多应用、易管理于一身的移动智能终端。智能POS通过与CT100云票打印机或CT200税控盒子配套使用，更可全面支持电子发票、卷式发票、平推发票的便捷开票。</p>
+<h2 id="税控托管服务器"><a href="#税控托管服务器" class="headerlink" title="税控托管服务器"></a>税控托管服务器</h2><p>税控服务器是一款高性能服务器级税控专用设备，通过网络与开票管理系统配合，以WEB页面方式或组件接口方式为开票点多、并发开票量大，需要集中管理发票的纳税户提供发票开具、签名、上传、抄报等功能， 并保证发票数据的正确生成、可靠存储和安全传输，满足税务机关的管理和数据核查等要求。</p>
+<p><a href="https://xiazai.zol.com.cn/detail/46/455055.shtml">【云票助手下载】云票助手 3.0.9-ZOL软件下载</a></p>
+]]></content>
+      <categories>
+        <category>应用</category>
+      </categories>
+      <tags>
+        <tag>智能财务</tag>
+        <tag>财务软件</tag>
+        <tag>云票助手</tag>
       </tags>
   </entry>
   <entry>
@@ -269,6 +269,26 @@
       <tags>
         <tag>智能财务</tag>
         <tag>发展趋势</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微税平台</title>
+    <url>/2021/06/03/%E5%BE%AE%E7%A8%8E%E5%B9%B3%E5%8F%B0/</url>
+    <content><![CDATA[<h1 id="微税平台软件特性"><a href="#微税平台软件特性" class="headerlink" title="微税平台软件特性"></a>微税平台软件特性</h1><p>微税平台是一款专业的税务综合服务平台，这里有大家所需要的增值税发票，网络办税等服务，包括开票业务、数据分析及开票助手等应用，财务人员必备工具。<span id="more"></span></p>
+<h1 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h1><p>1、业务频道区<br>主界面顶部区域为平台的业务频道，此区域包括首页、发票管理、办税大厅、推荐应用、信息中心、在线服务等。</p>
+<p>2、注册登录区<br>主界面右侧上部区域是登录区，包括用户登录、用户信息、在线注册等信息。</p>
+<p>3、信息提示区<br>主界面右侧中部是信息提示区。微税平台向您第一时间推送的平台动态、税法通知、精彩活动、提醒事项等信息在这里显示，包括重要通知、短消息、待办事项等，用户点击标题可以可以查看详细内容。</p>
+<p>4、广告服务区<br>主界面右侧下方区域是“广告服务区”，在这里显示的是您的服务商向您推荐的产品或服务的广告信息。</p>
+<p>5、桌面区<br>平台能将本机安装的部分税务系统自动智能收藏到首页中的桌面区，以便于用户快速启动。同时，用户也可以点击“自定义添加”，选择应用程序或者网页地址，将其添加到桌面区的对应分类中。</p>
+<p><a href="https://xiazai.zol.com.cn/detail/44/439051.shtml">【微税平台下载】微税平台 4.0.1-ZOL软件下载</a></p>
+]]></content>
+      <categories>
+        <category>应用</category>
+      </categories>
+      <tags>
+        <tag>智能财务</tag>
+        <tag>财务软件</tag>
+        <tag>微税平台</tag>
       </tags>
   </entry>
   <entry>
@@ -315,50 +335,6 @@
         <tag>智能财务</tag>
         <tag>计算器</tag>
         <tag>复利计算</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>年化收益率计算器</title>
-    <url>/2021/06/09/%E5%B9%B4%E5%8C%96%E6%94%B6%E7%9B%8A%E7%8E%87%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
-    <content><![CDATA[<h1 id="什么是年化收益率？"><a href="#什么是年化收益率？" class="headerlink" title="什么是年化收益率？"></a>什么是年化收益率？</h1><p>年化收益率是把当前收益率（日收益率、周收益率、月收益率）换算成年收益率来计算的，是一种理论收益率，并不是真正的已取得的收益率。</p>
-<p>年化收益率是货币基金过去七天每万份基金份额净收益折合成的年收益率。</p>
-<p>货币市场基金存在两种收益结转方式：1. “日日分红，按月结转”，相当于日日单利，月月复利；2.”日日分红，按日结转”，相当于日日复利。</p>
-<p>年化收益率，是投资（货币基金常用）在一段时间内（比如7天）的收益，假定一年都是这个水平，折算的年收益率。因为年化收益率是变动的，所以年收益率不一定和年化收益率相同。</p>
-<h1 id="「七天年化收益率」和「年利率」有什么区别呢？"><a href="#「七天年化收益率」和「年利率」有什么区别呢？" class="headerlink" title="「七天年化收益率」和「年利率」有什么区别呢？"></a><strong>「七天年化收益率」和「年利率」有什么区别呢？</strong></h1><p>「七天年化收益率」指将货币基金过去7天所获的总收益进行年化计算之后得出的数据。具体的操作方法是将7天的总收益率除以7，得到过去7天的平均日收益率，再乘上365天，得到七日年化收益率。</p>
-<p>公式：七日年化收益率 = 七日总收益率（%）/ 7 x 365</p>
-<p>七天年化收益率是投资者选择投资基金的重要指标，平时大家看到的存款利率、理财产品、逆回购等金融产品也多采用了年化收益率作为计价方式。</p>
-<p>「年利率」，是指一定期限内利息额与本金的比率，一般分为年利率、月利率和日利率三种。而年利率就是指以一年（365天）为计息周期计算的利息额与本金的比率。</p>
-<p>公式：年利率 = 一年期利息 ÷ 本金 × 100%</p>
-<h1 id="「七天年化收益率」和「年利率」有什么区别呢？-1"><a href="#「七天年化收益率」和「年利率」有什么区别呢？-1" class="headerlink" title="「七天年化收益率」和「年利率」有什么区别呢？"></a><strong>「七天年化收益率」和「年利率」有什么区别呢？</strong></h1><p>对于投资者而言，它们最大的区别就在于， 在一年之中年利率是“所见即所得”的 ，而七天年化收益率则是“所见并非所得”。年利率在一年之中是固定不变的，也就是所见即所得。即投资者在投入本金时看到的年利率，也就是其一年后所获的收益。而对七天年化收益率而言，它的缺点就是所见并非所得。即七日年化收益率并非等于实际收益。七天年化收益率是把基金过去7天的收益率考虑在内，并进行年化以后算出的指标。通过这种方法计算得出的七天年化收益率，存在这样一个缺点——每日实际收益水平可能会低于或高于平均收益水平。在这7天内若某一日的单日收益特别高，会使得这一日前后7天呈现出一个非常高的七日年化收益率。也就是说若投资者在释放收益这天之后买入，后续几天虽然看起来七日年化收益率很高，但实际进入投资者口袋的收益却有可能非常一般。</p>
-<p><a href="http://www.atoolbox.net/Tool.php?Id=1016">年化收益率计算器 - 一个工具箱 - 好用的在线工具都在这里！ (atoolbox.net)</a></p>
-]]></content>
-      <categories>
-        <category>应用</category>
-      </categories>
-      <tags>
-        <tag>智能财务</tag>
-        <tag>计算器</tag>
-        <tag>年化收益率</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>微税平台</title>
-    <url>/2021/06/03/%E5%BE%AE%E7%A8%8E%E5%B9%B3%E5%8F%B0/</url>
-    <content><![CDATA[<h1 id="微税平台软件特性"><a href="#微税平台软件特性" class="headerlink" title="微税平台软件特性"></a>微税平台软件特性</h1><p>微税平台是一款专业的税务综合服务平台，这里有大家所需要的增值税发票，网络办税等服务，包括开票业务、数据分析及开票助手等应用，财务人员必备工具。<span id="more"></span></p>
-<h1 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h1><p>1、业务频道区<br>主界面顶部区域为平台的业务频道，此区域包括首页、发票管理、办税大厅、推荐应用、信息中心、在线服务等。</p>
-<p>2、注册登录区<br>主界面右侧上部区域是登录区，包括用户登录、用户信息、在线注册等信息。</p>
-<p>3、信息提示区<br>主界面右侧中部是信息提示区。微税平台向您第一时间推送的平台动态、税法通知、精彩活动、提醒事项等信息在这里显示，包括重要通知、短消息、待办事项等，用户点击标题可以可以查看详细内容。</p>
-<p>4、广告服务区<br>主界面右侧下方区域是“广告服务区”，在这里显示的是您的服务商向您推荐的产品或服务的广告信息。</p>
-<p>5、桌面区<br>平台能将本机安装的部分税务系统自动智能收藏到首页中的桌面区，以便于用户快速启动。同时，用户也可以点击“自定义添加”，选择应用程序或者网页地址，将其添加到桌面区的对应分类中。</p>
-<p><a href="https://xiazai.zol.com.cn/detail/44/439051.shtml">【微税平台下载】微税平台 4.0.1-ZOL软件下载</a></p>
-]]></content>
-      <categories>
-        <category>应用</category>
-      </categories>
-      <tags>
-        <tag>智能财务</tag>
-        <tag>财务软件</tag>
-        <tag>微税平台</tag>
       </tags>
   </entry>
   <entry>
@@ -427,16 +403,27 @@
       </tags>
   </entry>
   <entry>
-    <title>理念</title>
-    <url>/2021/05/27/%E7%90%86%E5%BF%B5/</url>
-    <content><![CDATA[<h1 id="智能财务的理念"><a href="#智能财务的理念" class="headerlink" title="智能财务的理念"></a>智能财务的理念</h1><p>智能财务是指，将以人工智能为代表的“大智移云物区”等新技术运用于财务工作1，对传统财务工作进行模拟、延伸和拓展，以改善会计信息质量、提高会计工作效率、降低会计工作成本、提升会计合规能力和价值创造能力，促进企业财务在管理控制和决策支持方面的作用发挥，通过财务的数字化转型推动企业的数字化转型进程。</p>
+    <title>年化收益率计算器</title>
+    <url>/2021/06/09/%E5%B9%B4%E5%8C%96%E6%94%B6%E7%9B%8A%E7%8E%87%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="什么是年化收益率？"><a href="#什么是年化收益率？" class="headerlink" title="什么是年化收益率？"></a>什么是年化收益率？</h1><p>年化收益率是把当前收益率（日收益率、周收益率、月收益率）换算成年收益率来计算的，是一种理论收益率，并不是真正的已取得的收益率。</p>
+<p>年化收益率是货币基金过去七天每万份基金份额净收益折合成的年收益率。</p>
+<p>货币市场基金存在两种收益结转方式：1. “日日分红，按月结转”，相当于日日单利，月月复利；2.”日日分红，按日结转”，相当于日日复利。</p>
+<p>年化收益率，是投资（货币基金常用）在一段时间内（比如7天）的收益，假定一年都是这个水平，折算的年收益率。因为年化收益率是变动的，所以年收益率不一定和年化收益率相同。</p>
+<h1 id="「七天年化收益率」和「年利率」有什么区别呢？"><a href="#「七天年化收益率」和「年利率」有什么区别呢？" class="headerlink" title="「七天年化收益率」和「年利率」有什么区别呢？"></a><strong>「七天年化收益率」和「年利率」有什么区别呢？</strong></h1><p>「七天年化收益率」指将货币基金过去7天所获的总收益进行年化计算之后得出的数据。具体的操作方法是将7天的总收益率除以7，得到过去7天的平均日收益率，再乘上365天，得到七日年化收益率。</p>
+<p>公式：七日年化收益率 = 七日总收益率（%）/ 7 x 365</p>
+<p>七天年化收益率是投资者选择投资基金的重要指标，平时大家看到的存款利率、理财产品、逆回购等金融产品也多采用了年化收益率作为计价方式。</p>
+<p>「年利率」，是指一定期限内利息额与本金的比率，一般分为年利率、月利率和日利率三种。而年利率就是指以一年（365天）为计息周期计算的利息额与本金的比率。</p>
+<p>公式：年利率 = 一年期利息 ÷ 本金 × 100%</p>
+<h1 id="「七天年化收益率」和「年利率」有什么区别呢？-1"><a href="#「七天年化收益率」和「年利率」有什么区别呢？-1" class="headerlink" title="「七天年化收益率」和「年利率」有什么区别呢？"></a><strong>「七天年化收益率」和「年利率」有什么区别呢？</strong></h1><p>对于投资者而言，它们最大的区别就在于， 在一年之中年利率是“所见即所得”的 ，而七天年化收益率则是“所见并非所得”。年利率在一年之中是固定不变的，也就是所见即所得。即投资者在投入本金时看到的年利率，也就是其一年后所获的收益。而对七天年化收益率而言，它的缺点就是所见并非所得。即七日年化收益率并非等于实际收益。七天年化收益率是把基金过去7天的收益率考虑在内，并进行年化以后算出的指标。通过这种方法计算得出的七天年化收益率，存在这样一个缺点——每日实际收益水平可能会低于或高于平均收益水平。在这7天内若某一日的单日收益特别高，会使得这一日前后7天呈现出一个非常高的七日年化收益率。也就是说若投资者在释放收益这天之后买入，后续几天虽然看起来七日年化收益率很高，但实际进入投资者口袋的收益却有可能非常一般。</p>
+<p><a href="http://www.atoolbox.net/Tool.php?Id=1016">年化收益率计算器 - 一个工具箱 - 好用的在线工具都在这里！ (atoolbox.net)</a></p>
 ]]></content>
       <categories>
-        <category>基础概念</category>
+        <category>应用</category>
       </categories>
       <tags>
         <tag>智能财务</tag>
-        <tag>理念</tag>
+        <tag>计算器</tag>
+        <tag>年化收益率</tag>
       </tags>
   </entry>
   <entry>
@@ -458,6 +445,34 @@
         <tag>智能财务</tag>
         <tag>财务软件</tag>
         <tag>诺诺发票</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理念</title>
+    <url>/2021/05/27/%E7%90%86%E5%BF%B5/</url>
+    <content><![CDATA[<h1 id="智能财务的理念"><a href="#智能财务的理念" class="headerlink" title="智能财务的理念"></a>智能财务的理念</h1><p>智能财务是指，将以人工智能为代表的“大智移云物区”等新技术运用于财务工作1，对传统财务工作进行模拟、延伸和拓展，以改善会计信息质量、提高会计工作效率、降低会计工作成本、提升会计合规能力和价值创造能力，促进企业财务在管理控制和决策支持方面的作用发挥，通过财务的数字化转型推动企业的数字化转型进程。</p>
+]]></content>
+      <categories>
+        <category>基础概念</category>
+      </categories>
+      <tags>
+        <tag>智能财务</tag>
+        <tag>理念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>金簿中小企业财务软件</title>
+    <url>/2021/06/03/%E9%87%91%E7%B0%BF%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6/</url>
+    <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>金簿财务软件操作全智能化、不懂会计也会用。<span id="more"></span>含2013版小企业会计准则、2007版新企业会计制度和原旧会计制度、融资担保公司会计制度、农民专业合作社会计制度等，并提供不同制度的转换功能，是中小企业及代理记账公司的最佳选择，可建998个账套，可直接在U盘上操作，支持凭证插入功能，可以修改凭证字、凭证号和进销存处理，自动计折旧，自动结转销售成本，只需录入凭证，常用总账、明细账、数量金额明细账、固定资产明细账，销售利润表，科目余额表、资产负债表、利润表、现金流量表、应交增值税明细表、及各种费用报表会自动生成。所有的凭证、账表、报表可以批量导出到电子表格……</p>
+<p><a href="https://xiazai.zol.com.cn/detail/42/417547.shtml">【金簿中小企业财务软件下载】金簿中小企业财务软件 4.692智能版-ZOL软件下载</a></p>
+]]></content>
+      <categories>
+        <category>应用</category>
+      </categories>
+      <tags>
+        <tag>智能财务</tag>
+        <tag>财务软件</tag>
+        <tag>金簿中小企业财务软件</tag>
       </tags>
   </entry>
   <entry>
@@ -485,21 +500,6 @@
         <tag>智能财务</tag>
         <tag>财务软件</tag>
         <tag>金蝶K/3财务管理系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>金簿中小企业财务软件</title>
-    <url>/2021/06/03/%E9%87%91%E7%B0%BF%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E8%B4%A2%E5%8A%A1%E8%BD%AF%E4%BB%B6/</url>
-    <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>金簿财务软件操作全智能化、不懂会计也会用。<span id="more"></span>含2013版小企业会计准则、2007版新企业会计制度和原旧会计制度、融资担保公司会计制度、农民专业合作社会计制度等，并提供不同制度的转换功能，是中小企业及代理记账公司的最佳选择，可建998个账套，可直接在U盘上操作，支持凭证插入功能，可以修改凭证字、凭证号和进销存处理，自动计折旧，自动结转销售成本，只需录入凭证，常用总账、明细账、数量金额明细账、固定资产明细账，销售利润表，科目余额表、资产负债表、利润表、现金流量表、应交增值税明细表、及各种费用报表会自动生成。所有的凭证、账表、报表可以批量导出到电子表格……</p>
-<p><a href="https://xiazai.zol.com.cn/detail/42/417547.shtml">【金簿中小企业财务软件下载】金簿中小企业财务软件 4.692智能版-ZOL软件下载</a></p>
-]]></content>
-      <categories>
-        <category>应用</category>
-      </categories>
-      <tags>
-        <tag>智能财务</tag>
-        <tag>财务软件</tag>
-        <tag>金簿中小企业财务软件</tag>
       </tags>
   </entry>
 </search>
