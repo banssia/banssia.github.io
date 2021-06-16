@@ -81,14 +81,16 @@
       </tags>
   </entry>
   <entry>
-    <title>XIRR计算器</title>
-    <url>/2021/06/09/XIRR%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
-    <content><![CDATA[<h1 id="内部收益率（XIRR）计算器的功能"><a href="#内部收益率（XIRR）计算器的功能" class="headerlink" title="内部收益率（XIRR）计算器的功能"></a><strong>内部收益率（XIRR）计算器的功能</strong></h1><p>计算一组定期或者不定期现金流的内部收益率。</p>
-<p>如果计算一组定期现金流的内部收益率，请使用<a href="http://www.atoolbox.net/Tool.php?Id=960">内部收益率（IRR）计算器</a>。</p>
-<h1 id="内部收益率XIRR和IRR计算器的区别"><a href="#内部收益率XIRR和IRR计算器的区别" class="headerlink" title="内部收益率XIRR和IRR计算器的区别"></a><strong>内部收益率XIRR和IRR计算器的区别</strong></h1><p>IRR计算适用于确定定期获得的现金流；当现金流是否能定期获得不确定时，可以使用XIRR计算器计算，换句话说XIRR计算器比IRR计算器的使用范围更加广泛。XIRR 与净现值 XNPV 密切相关。 XIRR 计算的收益率即为XNPV = 0 时的利率。</p>
-<h1 id="XIRR现金流具有下列参数："><a href="#XIRR现金流具有下列参数：" class="headerlink" title="XIRR现金流具有下列参数："></a><strong>XIRR现金流具有下列参数：</strong></h1><p>值： 与支付时间相对应的一系列现金流。 首期支付与投资开始时的成本或支付有关。 如果第一个值是成本或支付，则它必须是负值。 所有后续支付都基于 365 天/年贴现。 值系列中必须至少包含一个正值和一个负值。</p>
-<p>日期： 与现金流支付相对应的支付日期表。 日期可能按任何顺序发生。</p>
-<p><a href="http://www.atoolbox.net/Tool.php?Id=1015">不定期现金流内部收益率（XIRR）计算器 - 一个工具箱 - 好用的在线工具都在这里！ (atoolbox.net)</a></p>
+    <title>IRR计算器</title>
+    <url>/2021/05/27/irr%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="什么是内部收益率（IRR）？"><a href="#什么是内部收益率（IRR）？" class="headerlink" title="什么是内部收益率（IRR）？"></a>什么是内部收益率（IRR）？</h1><p>内部收益率，英文名称：Internal Rate of Return，缩写IRR。是指项目投资实际可望达到的收益率。就是资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。如果不使用电子计算机，内部收益率要用若干个折现率进行试算，直至找到净现值等于零或接近于零的那个折现率。内部收益率，是一项投资渴望达到的报酬率，是能使投资项目净现值等于零时的折现率。</p>
+<p>它是一项投资渴望达到的报酬率，该指标越大越好。一般情况下，内部收益率大于等于基准收益率时，该项目是可行的。投资项目各年现金流量的折现值之和为项目的净现值，净现值为零时的折现率就是项目的内部收益率。在项目经济评价中，根据分析层次的不同，内部收益率有财务内部收益率（FIRR）和经济内部收益率（EIRR）之分。</p>
+<p>内部收益率是用内部收益率来评价项目投资效益的方法。当下，股票、基金、黄金、房产、期货等投资方式已为众多理财者所熟悉和运用。但投资的成效如何，许多人的理解仅仅限于收益的绝对量上，缺乏科学的判断依据。对于他们来说，内部收益率(IRR)指标是个不可或缺的工具。</p>
+<h1 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h1><p>内部收益率(IRR) - IRR就是资金流入现值总额与资金流出现值总额相等，净现值等于零时的折现率。</p>
+<p>初始资金投入 - 在项目开始时的投资。</p>
+<p>资金流入- 现金/资金的流入，比如销售收入。</p>
+<p>资金流出 - 现金/资金的流出，比如采购原料。</p>
+<p><a href="http://www.atoolbox.net/Tool.php?Id=960">内部收益率（IRR）计算器 - 一个工具箱 - 好用的在线工具都在这里！ (atoolbox.net)</a></p>
 ]]></content>
       <categories>
         <category>应用</category>
@@ -96,7 +98,7 @@
       <tags>
         <tag>智能财务</tag>
         <tag>计算器</tag>
-        <tag>不定期现金流内部收益率（XIRR）</tag>
+        <tag>IRR</tag>
       </tags>
   </entry>
   <entry>
@@ -118,16 +120,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>IRR计算器</title>
-    <url>/2021/05/27/irr%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
-    <content><![CDATA[<h1 id="什么是内部收益率（IRR）？"><a href="#什么是内部收益率（IRR）？" class="headerlink" title="什么是内部收益率（IRR）？"></a>什么是内部收益率（IRR）？</h1><p>内部收益率，英文名称：Internal Rate of Return，缩写IRR。是指项目投资实际可望达到的收益率。就是资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。如果不使用电子计算机，内部收益率要用若干个折现率进行试算，直至找到净现值等于零或接近于零的那个折现率。内部收益率，是一项投资渴望达到的报酬率，是能使投资项目净现值等于零时的折现率。</p>
-<p>它是一项投资渴望达到的报酬率，该指标越大越好。一般情况下，内部收益率大于等于基准收益率时，该项目是可行的。投资项目各年现金流量的折现值之和为项目的净现值，净现值为零时的折现率就是项目的内部收益率。在项目经济评价中，根据分析层次的不同，内部收益率有财务内部收益率（FIRR）和经济内部收益率（EIRR）之分。</p>
-<p>内部收益率是用内部收益率来评价项目投资效益的方法。当下，股票、基金、黄金、房产、期货等投资方式已为众多理财者所熟悉和运用。但投资的成效如何，许多人的理解仅仅限于收益的绝对量上，缺乏科学的判断依据。对于他们来说，内部收益率(IRR)指标是个不可或缺的工具。</p>
-<h1 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h1><p>内部收益率(IRR) - IRR就是资金流入现值总额与资金流出现值总额相等，净现值等于零时的折现率。</p>
-<p>初始资金投入 - 在项目开始时的投资。</p>
-<p>资金流入- 现金/资金的流入，比如销售收入。</p>
-<p>资金流出 - 现金/资金的流出，比如采购原料。</p>
-<p><a href="http://www.atoolbox.net/Tool.php?Id=960">内部收益率（IRR）计算器 - 一个工具箱 - 好用的在线工具都在这里！ (atoolbox.net)</a></p>
+    <title>XIRR计算器</title>
+    <url>/2021/06/09/XIRR%E8%AE%A1%E7%AE%97%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="内部收益率（XIRR）计算器的功能"><a href="#内部收益率（XIRR）计算器的功能" class="headerlink" title="内部收益率（XIRR）计算器的功能"></a><strong>内部收益率（XIRR）计算器的功能</strong></h1><p>计算一组定期或者不定期现金流的内部收益率。</p>
+<p>如果计算一组定期现金流的内部收益率，请使用<a href="http://www.atoolbox.net/Tool.php?Id=960">内部收益率（IRR）计算器</a>。</p>
+<h1 id="内部收益率XIRR和IRR计算器的区别"><a href="#内部收益率XIRR和IRR计算器的区别" class="headerlink" title="内部收益率XIRR和IRR计算器的区别"></a><strong>内部收益率XIRR和IRR计算器的区别</strong></h1><p>IRR计算适用于确定定期获得的现金流；当现金流是否能定期获得不确定时，可以使用XIRR计算器计算，换句话说XIRR计算器比IRR计算器的使用范围更加广泛。XIRR 与净现值 XNPV 密切相关。 XIRR 计算的收益率即为XNPV = 0 时的利率。</p>
+<h1 id="XIRR现金流具有下列参数："><a href="#XIRR现金流具有下列参数：" class="headerlink" title="XIRR现金流具有下列参数："></a><strong>XIRR现金流具有下列参数：</strong></h1><p>值： 与支付时间相对应的一系列现金流。 首期支付与投资开始时的成本或支付有关。 如果第一个值是成本或支付，则它必须是负值。 所有后续支付都基于 365 天/年贴现。 值系列中必须至少包含一个正值和一个负值。</p>
+<p>日期： 与现金流支付相对应的支付日期表。 日期可能按任何顺序发生。</p>
+<p><a href="http://www.atoolbox.net/Tool.php?Id=1015">不定期现金流内部收益率（XIRR）计算器 - 一个工具箱 - 好用的在线工具都在这里！ (atoolbox.net)</a></p>
 ]]></content>
       <categories>
         <category>应用</category>
@@ -135,7 +135,7 @@
       <tags>
         <tag>智能财务</tag>
         <tag>计算器</tag>
-        <tag>IRR</tag>
+        <tag>不定期现金流内部收益率（XIRR）</tag>
       </tags>
   </entry>
   <entry>
@@ -427,19 +427,6 @@
       </tags>
   </entry>
   <entry>
-    <title>理念</title>
-    <url>/2021/05/27/%E7%90%86%E5%BF%B5/</url>
-    <content><![CDATA[<h1 id="智能财务的理念"><a href="#智能财务的理念" class="headerlink" title="智能财务的理念"></a>智能财务的理念</h1><p>智能财务是指，将以人工智能为代表的“大智移云物区”等新技术运用于财务工作1，对传统财务工作进行模拟、延伸和拓展，以改善会计信息质量、提高会计工作效率、降低会计工作成本、提升会计合规能力和价值创造能力，促进企业财务在管理控制和决策支持方面的作用发挥，通过财务的数字化转型推动企业的数字化转型进程。</p>
-]]></content>
-      <categories>
-        <category>基础概念</category>
-      </categories>
-      <tags>
-        <tag>智能财务</tag>
-        <tag>理念</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>诺诺发票</title>
     <url>/2021/06/03/%E8%AF%BA%E8%AF%BA%E5%8F%91%E7%A5%A8/</url>
     <content><![CDATA[<h1 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h1><p>诺诺发票是一款非常好用的发票管理软件，用户们可以通过这款软件实时在线享受最专业全面的一站式发票服务，它可以帮助用户们快速智能地进行开票、智能编码和电子发票等功能，还有多种便捷实用的辅助功能，让用户的发票管理更加高效。<span id="more"></span></p>
@@ -458,6 +445,19 @@
         <tag>智能财务</tag>
         <tag>财务软件</tag>
         <tag>诺诺发票</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理念</title>
+    <url>/2021/05/27/%E7%90%86%E5%BF%B5/</url>
+    <content><![CDATA[<h1 id="智能财务的理念"><a href="#智能财务的理念" class="headerlink" title="智能财务的理念"></a>智能财务的理念</h1><p>智能财务是指，将以人工智能为代表的“大智移云物区”等新技术运用于财务工作1，对传统财务工作进行模拟、延伸和拓展，以改善会计信息质量、提高会计工作效率、降低会计工作成本、提升会计合规能力和价值创造能力，促进企业财务在管理控制和决策支持方面的作用发挥，通过财务的数字化转型推动企业的数字化转型进程。</p>
+]]></content>
+      <categories>
+        <category>基础概念</category>
+      </categories>
+      <tags>
+        <tag>智能财务</tag>
+        <tag>理念</tag>
       </tags>
   </entry>
   <entry>
