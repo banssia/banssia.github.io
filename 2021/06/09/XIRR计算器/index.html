@@ -534,27 +534,6 @@ setInterval("createtime()",250);
 
 
 
-
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : '922c2867eb325bd156ab',
-      clientSecret: 'fa88437752ef2015d68b86a36e54fcda4e4ab478',
-      repo        : 'blog-conmment',
-      owner       : 'banssia',
-      admin       : ['banssia'],
-      id          : '9876166dc0663ce3105cb28821af9678',
-        language: 'zh-CN',
-      distractionFreeMode: false
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
-
   
 
   
@@ -572,7 +551,7 @@ NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
       admin       : ['banssia'],
       id          : '4e7abd1fbeec6b804374ebdcce8535ca',
         language: 'zh-CN',
-      distractionFreeMode: false
+      distractionFreeMode: true
     });
     gitalk.render('gitalk-container');
   }, window.Gitalk);

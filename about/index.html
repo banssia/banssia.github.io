@@ -23,15 +23,15 @@
     var CONFIG = {"hostname":"banssia.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="这是一个关于智能财务的博客在这里，你可以看见智能财务的基础理念和实际应用。主要收集了一些财务软件和财务小工具，希望可以更好地帮助你了解智能财务。">
+  <meta name="description" content="这是一个关于智能财务的博客在这里，你可以看见智能财务的基础理念和实际应用。主要收集了一些财务软件和财务小工具，希望可以更好地帮助你了解智能财务。 智能财务是覆盖财务流程的智能化，它涵盖三个层面：第一，是基于业务与财务相融合的智能财务共享平台，这是智能财务的基础。第二，是基于商业智能的智能管理会计平台，这是智能财务的核心。第三，是基于人工智能的智能财务平台，这代表智能财务的发展。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="about">
 <meta property="og:url" content="https://banssia.github.io/about/index.html">
 <meta property="og:site_name" content="智能财务">
-<meta property="og:description" content="这是一个关于智能财务的博客在这里，你可以看见智能财务的基础理念和实际应用。主要收集了一些财务软件和财务小工具，希望可以更好地帮助你了解智能财务。">
+<meta property="og:description" content="这是一个关于智能财务的博客在这里，你可以看见智能财务的基础理念和实际应用。主要收集了一些财务软件和财务小工具，希望可以更好地帮助你了解智能财务。 智能财务是覆盖财务流程的智能化，它涵盖三个层面：第一，是基于业务与财务相融合的智能财务共享平台，这是智能财务的基础。第二，是基于商业智能的智能管理会计平台，这是智能财务的核心。第三，是基于人工智能的智能财务平台，这代表智能财务的发展。">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2021-05-27T01:25:30.000Z">
-<meta property="article:modified_time" content="2021-06-16T16:09:55.609Z">
+<meta property="article:modified_time" content="2021-06-17T01:35:58.702Z">
 <meta property="article:author" content="颜思祺">
 <meta name="twitter:card" content="summary">
 
@@ -217,6 +217,7 @@
       
       <div class="post-body">
           <h1 id="这是一个关于智能财务的博客"><a href="#这是一个关于智能财务的博客" class="headerlink" title="这是一个关于智能财务的博客"></a>这是一个关于智能财务的博客</h1><p>在这里，你可以看见智能财务的基础理念和实际应用。主要收集了一些财务软件和财务小工具，希望可以更好地帮助你了解智能财务。</p>
+<p>智能财务是覆盖财务流程的智能化，它涵盖三个层面：第一，是基于业务与财务相融合的智能财务共享平台，这是智能财务的基础。第二，是基于商业智能的智能管理会计平台，这是智能财务的核心。第三，是基于人工智能的智能财务平台，这代表智能财务的发展。</p>
 
       </div>
       
@@ -431,27 +432,6 @@ setInterval("createtime()",250);
 
 
 
-
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : '922c2867eb325bd156ab',
-      clientSecret: 'fa88437752ef2015d68b86a36e54fcda4e4ab478',
-      repo        : 'blog-conmment',
-      owner       : 'banssia',
-      admin       : ['banssia'],
-      id          : '9876166dc0663ce3105cb28821af9678',
-        language: 'zh-CN',
-      distractionFreeMode: false
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
-
   
 
   
@@ -469,7 +449,7 @@ NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
       admin       : ['banssia'],
       id          : '3be7aa98d992907175cbd79c194399f2',
         language: 'zh-CN',
-      distractionFreeMode: false
+      distractionFreeMode: true
     });
     gitalk.render('gitalk-container');
   }, window.Gitalk);
